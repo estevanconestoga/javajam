@@ -1,0 +1,13 @@
+footer {
+    padding-top: 1.5em;
+}
+
+body {
+    display: grid;
+    place-items: center;
+}
+
+
+/*dt {
+    padding: 10px 0px;
+}
