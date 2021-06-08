@@ -1,5 +1,6 @@
-# javajam
-Assignment 2 - Website Design
+JavaJam Coffee Bar
+
+<h2>Assignment 2 - Website Design</h2>
 Instructions
 Select one of the following case studies to complete:
 JavaJam Coffee Bar
